@@ -1,0 +1,20 @@
+Requirements:
+
+    Tools:
+        Jupyter Notebooks
+
+    Python:
+        Python 3.7 (Anaconda)
+
+    Libraries:
+        pandas
+        numpy
+        sklearn - preprocessing
+        sklearn.model_selection - train_test_split
+        sklearn.ensemble - RandomForestRegressor
+
+    File Structure:
+        Provided, no need to modify file paths
+
+    Necessary Files:
+        nfl_games.csv
